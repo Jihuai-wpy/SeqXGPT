@@ -4,6 +4,20 @@
 
 
 
+<div align="center">
+
+<a href='https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE'>
+<img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+
+<a href='https://arxiv.org/abs/2305.11000'>
+<img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+
+<a href='https://huggingface.co/datasets/fnlp/SpeechInstruct'>
+<img src='https://img.shields.io/badge/Datasets-SpeechInstruct-yellow'></a>
+
+</div>
+
+
 ![logo]()
 
 ## Introduction
@@ -33,7 +47,7 @@ SeqXGPT is an advance method for sentence-level AI-generated text detection, , w
 <p align="center">
     <img src="imgs/SeqXGPT.png" width="60%"> <br>
     <br>
-    Process of Sentence-Level AIGT Detection Challenge.
+    SeqXGPT Framework.
 </p>
 
 Please refer to our [paper]() for more details.
