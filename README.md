@@ -1,21 +1,13 @@
 # SeqXGPT: Sentence-Level AI-Generated Text Detection
 
-[![](https://img.shields.io/badge/License-Apache_2.0-green)](https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE) [![](https://img.shields.io/badge/paper-Arxiv-red)](https://arxiv.org/) [![](https://img.shields.io/badge/Datasets-SeqXGPT-yellow)](https://github.com/Jihuai-wpy/SeqXGPT/tree/main/SeqXGPT/dataset)
-
-
-
-<div align="center">
-
+<p align="center">
 <a href='https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE'>
-<img src='https://img.shields.io/badge/Project-Page-Green'></a> 
-
-<a href='https://arxiv.org/abs/2305.11000'>
-<img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-
-<a href='https://huggingface.co/datasets/fnlp/SpeechInstruct'>
-<img src='https://img.shields.io/badge/Datasets-SpeechInstruct-yellow'></a>
-
-</div>
+<img src='https://img.shields.io/badge/License-Apache_2.0-Green'></a> 
+<a href='https://arxiv.org/'>
+<img src='https://img.shields.io/badge/paper-Arxiv-red'></a>
+<a href='https://github.com/Jihuai-wpy/SeqXGPT/tree/main/SeqXGPT/dataset'>
+<img src='https://img.shields.io/badge/Datasets-SeqXGPT-yellow'></a>
+</p>
 
 
 ![logo]()
