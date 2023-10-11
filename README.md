@@ -1,14 +1,14 @@
 # [SeqXGPT: Sentence-Level AI-Generated Text Detection](https://github.com/Jihuai-wpy/SeqXGPT/tree/main)
 
-[![](https://img.shields.io/badge/License-Apache_2.0-green)](https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE)[![](https://img.shields.io/badge/paper-Arxiv-red)](https://arxiv.org/)[![](https://img.shields.io/badge/Datasets-SeqXGPT-yellow)](https://github.com/Jihuai-wpy/SeqXGPT/tree/main/SeqXGPT/dataset)
+[![](https://img.shields.io/badge/License-Apache_2.0-green)](https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE) [![](https://img.shields.io/badge/paper-Arxiv-red)](https://arxiv.org/) [![](https://img.shields.io/badge/Datasets-SeqXGPT-yellow)](https://github.com/Jihuai-wpy/SeqXGPT/tree/main/SeqXGPT/dataset)
 
-[![img](https://github.com/0nutation/SpeechGPT/raw/main/Pictures/logo.)](https://github.com/0nutation/SpeechGPT/blob/main/Pictures/logo.png)
+![logo]()
 
 ## Introduction
 
 Widely applied large language models (LLMs) can generate human-like content, raising concerns about the abuse of LLMs. Therefore, it is important to build strong AI-generated text (AIGT) detectors. Current works only consider document-level AIGT detection, therefore, we **first** introduce a sentence-level detection challenge by **synthesizing a dataset** that contains documents that are polished with LLMs, that is, the documents contain sentences written by humans and sentences modified by LLMs. Then we propose **Seq**uence **X** (Check) **GPT**, a novel method that utilizes log probability lists from white-box LLMs as features for sentence-level AIGT detection. These features are composed like *waves* in speech processing and cannot be studied by LLMs. Therefore, we build SeqXGPT based on convolution and self-attention networks. We test it in both sentence and document-level detection challenges. Experimental results show that previous methods struggle in solving sentence-level AIGT detection,  while **our method not only significantly surpasses baseline methods in both sentence and document-level detection challenges but also exhibits strong generalization capabilities**.
 
-![Process of Sentence-Level AIGT Detection Challenge.]()
+![Process of Sentence-Level AIGT Detection Challenge.](https://github.com/Jihuai-wpy/SeqXGPT/blob/main/imgs/SeqXGPT_overview.png)
 
 ## SeqXGPT
 
@@ -18,7 +18,7 @@ SeqXGPT is an advance method for sentence-level AI-generated text detection, , w
 2. Feature Encoder;
 3. Linear Classification Layer.
 
-![SeqXGPT Framework.]()
+![SeqXGPT Framework.](https://github.com/Jihuai-wpy/SeqXGPT/blob/main/imgs/SeqXGPT.png)
 
 
 
