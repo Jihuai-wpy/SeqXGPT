@@ -1,6 +1,6 @@
 # Open-Source List
 
-We list all the datasets, models, training and testing codes related to SeqXGPT here. For a more general understanding of SeqXGPT's objectives, performance, and contributions, please refer to the [SeqXGPT homepage]().
+We list all the datasets, models, training and testing codes related to SeqXGPT here. For a more general understanding of SeqXGPT's objectives, performance, and contributions, please refer to the [SeqXGPT homepage](https://github.com/Jihuai-wpy/SeqXGPT/tree/main).
 
 ## Datasets
 
