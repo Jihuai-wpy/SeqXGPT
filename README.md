@@ -1,7 +1,6 @@
 # SeqXGPT
 <p align="center">
     <img src="imgs/logo.png" width="25%"> <br>
-    <b><font size="5">SeqXGPT</font></b>
 </p>
 <p align="center">
 <a href='https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE'>
@@ -11,6 +10,7 @@
 <a href='https://github.com/Jihuai-wpy/SeqXGPT/tree/main/SeqXGPT/dataset'>
 <img src='https://img.shields.io/badge/Datasets-SeqXGPT-yellow'></a>
 </p>
+
 
 
 This is the official repository for ["SeqXGPT: Sentence-Level AI-Generated Text Detection"](https://arxiv.org/abs/2310.08903).
