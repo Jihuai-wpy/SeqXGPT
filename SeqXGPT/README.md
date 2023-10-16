@@ -138,6 +138,13 @@ A complete description of the environment settings is available in `requirements
 If you find SeqXGPT useful for your research and applications, please cite using the Bibtex:
 
 ```
-
+@misc{wang2023seqxgpt,
+      title={SeqXGPT: Sentence-Level AI-Generated Text Detection}, 
+      author={Pengyu Wang and Linyang Li and Ke Ren and Botian Jiang and Dong Zhang and Xipeng Qiu},
+      year={2023},
+      eprint={2310.08903},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 

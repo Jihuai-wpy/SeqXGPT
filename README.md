@@ -1,14 +1,19 @@
-# SeqXGPT: Sentence-Level AI-Generated Text Detection
-
+# SeqXGPT
+<p align="center">
+    <img src="imgs/logo.png" width="25%"> <br>
+    <b><font size="5">SeqXGPT</font></b>
+</p>
 <p align="center">
 <a href='https://github.com/Jihuai-wpy/SeqXGPT/blob/main/LICENSE'>
 <img src='https://img.shields.io/badge/License-Apache_2.0-Green'></a> 
-<a href='https://arxiv.org/'>
+<a href='https://arxiv.org/abs/2310.08903'>
 <img src='https://img.shields.io/badge/paper-Arxiv-red'></a>
 <a href='https://github.com/Jihuai-wpy/SeqXGPT/tree/main/SeqXGPT/dataset'>
 <img src='https://img.shields.io/badge/Datasets-SeqXGPT-yellow'></a>
 </p>
 
+
+This is the official repository for ["SeqXGPT: Sentence-Level AI-Generated Text Detection"](https://arxiv.org/abs/2310.08903).
 
 ## Introduction
 
@@ -40,7 +45,7 @@ SeqXGPT is an advance method for sentence-level AI-generated text detection, , w
     SeqXGPT Framework.
 </p>
 
-Please refer to our [paper]() for more details.
+Please refer to our [paper](https://arxiv.org/abs/2310.08903) for more details.
 
 ## Open-Source List
 
@@ -48,7 +53,7 @@ We list all the datasets, models, training and testing codes related to SeqXGPT 
 
 ## Performance
 
-All the values listed in our table are **F1 scores**, and **Macro-F1 scores** to consider the overall performance. For detailed precision and recall scores, please refer to our [paper]().
+All the values listed in our table are **F1 scores**, and **Macro-F1 scores** to consider the overall performance. For detailed precision and recall scores, please refer to our [paper](https://arxiv.org/abs/2310.08903).
 
 ### Results of Particular-Model Binary AIGT Detection
 
@@ -126,13 +131,22 @@ Despite SeqXGPT exhibits excellent performance in both sentence and document-lev
 
 ## Acknowledgements
 
-We express our appreciation to Xipeng Qiu, Linyang Li and Qipeng Guo for their valuable suggestions and guidance.
+- We sincerely thank Qipeng Guo for his valuable discussions and insightful suggestions.
+- This work was supported by the National Natural Science Foundation of China (No. 62236004 and No. 62022027).
+- This work's logo was initially generated using OpenAI's [DALL-E 3](https://openai.com/research/dall-e-3-system-card) and further refined by Youqi Sun. Special thanks to both.
 
 ## Citation
 
 If you find SeqXGPT useful for your research and applications, please cite using the Bibtex:
 
 ```
-
+@misc{wang2023seqxgpt,
+      title={SeqXGPT: Sentence-Level AI-Generated Text Detection}, 
+      author={Pengyu Wang and Linyang Li and Ke Ren and Botian Jiang and Dong Zhang and Xipeng Qiu},
+      year={2023},
+      eprint={2310.08903},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
