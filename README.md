@@ -31,7 +31,7 @@ Widely applied large language models (LLMs) can generate human-like content, rai
 
 ## SeqXGPT
 
-SeqXGPT is an advance method for sentence-level AI-generated text detection, , which consists of the following three parts: 
+SeqXGPT is an advance method for sentence-level AI-generated text detection, which consists of the following three parts: 
 
 1. Perplexity Extraction and Alignment;
 2. Feature Encoder;
